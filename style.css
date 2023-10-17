@@ -1,0 +1,100 @@
+
+    body {
+        font-family: 'Quicksand';
+    }
+
+
+    p {
+        
+        font-size: 20px;
+        margin-bottom: -18px;
+        font-weight:bold;
+        text-align: justify;
+        
+    }
+
+    .div1-soup-image {
+        background-image: url("soup.jpg");
+        background-position:center;
+        height: 1000px;
+        width: 100%;
+        background-size:cover ;
+        border-bottom: 7px solid;
+     }
+
+     h1 {
+        color: white;
+        font-size: 80px;
+        position: absolute;
+        top: 80%;
+        width: 100%;
+        text-align: center;
+        }
+
+
+    .suopimg {
+        width: 280px;
+        margin-top: 40px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: -150px;
+        
+        }
+
+    #suopimg-rotate:hover{transform: rotate(180deg);}
+
+    .div-oval-shape {
+         background-color: #f3cda3;
+         width: 150px;
+         border-radius: 50%;
+         color: black;
+         margin-top: 90px;
+         margin-left: -15px;
+         margin-right: 100px;
+         
+         }
+
+    h2 {
+         font-size: 20px;
+         text-align: center;
+         
+         }
+    
+
+    .div-intro {
+        margin-top: 100px;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .recipe-info-img {
+        width: 300px;
+        margin-top: 40px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+
+    hr {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .div-Ingredients-direction {
+        margin-top: 90px;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-bottom: 50px;
+    }
+
+    .cooking-info-img {
+        width: 300px;
+        margin-top: 40px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+   
